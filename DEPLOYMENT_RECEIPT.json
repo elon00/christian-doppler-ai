@@ -1,0 +1,14 @@
+{
+  "project": "christian-doppler-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "HTZx6Z7tA9gSc4wmoVPMoC5GcT28jHR7MerzpXfHAGh8",
+  "vault_account": "C8v3UEsdiWwNGxPptYaGQU2GScJsvsf6sLVHbs7CMvwb",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4AtSagct6xi3QwcdKheQiVPXYDZzoXgrogdN1BbVaTNn1aGArZ3Nx94ZxwD5HE1hdrpZKNqod7fZTiefke7amBmw",
+  "account_tx": "EZsqAR9pGNb5y7KfxBQ9FCrUNWVSTsbHCb3q9iPazXMVzr186JrhjBnaV1tU1RmnyAgs77TQ76mvhoJTSRVBNxD",
+  "mint_tx": "92gsosMtFkfYMUriQg87QhvAxf1nDNB4iBxBd6XC9hRTvN6br26kvLH4yGsD8VSvqJXTtVLLK4RUtQmePakKZsN",
+  "solana_explorer_mint": "https://explorer.solana.com/address/HTZx6Z7tA9gSc4wmoVPMoC5GcT28jHR7MerzpXfHAGh8?cluster=devnet",
+  "timestamp": "2026-10-26 16:26:20 UTC"
+}
